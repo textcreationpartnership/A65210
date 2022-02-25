@@ -1,0 +1,178 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter sent from the right honourable Robert, Earl of Warwick, Admirall of the sea to M. John Pym, Esq., and presented to both houses of Parliament, July 6, 1642.</title>
+            <author>Warwick, Robert Rich, Earl of, 1587-1658.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A65210</idno>
+            <idno type="STC">Wing W1003</idno>
+            <idno type="STC">ESTC R15759</idno>
+            <idno type="EEBO-CITATION">12158976</idno>
+            <idno type="OCLC">ocm 12158976</idno>
+            <idno type="VID">55245</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A65210)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 55245)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 905:26)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter sent from the right honourable Robert, Earl of Warwick, Admirall of the sea to M. John Pym, Esq., and presented to both houses of Parliament, July 6, 1642.</title>
+                  <author>Warwick, Robert Rich, Earl of, 1587-1658.</author>
+                  <author>Pym, John, 1584-1643.</author>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Ios. Hunscott, and Io. Wright,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1642?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-12</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-01</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-01</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <p>
+               <pb facs="tcp:55245:1"/>
+               <pb facs="tcp:55245:1" rendition="simple:additions"/> A LETTER Sent from the Right Honorable, ROBERT, Earl of WARWICK, Admirall of the Sea, To M. <hi>JOHN PYM,</hi> 
+               <abbr>Esq</abbr> and preſented to both Houſes of Parliament, <hi>Iuly</hi> 6. 1642.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>
+                              <date>
+                                 <hi>Die Mercurii,</hi> 6 <hi>Iulii,</hi> 1642.</date>
+                           </dateline>
+                        </opener>
+                        <p>Ordered by the Lords in Parliament, That this Letter be forthwith printed and pub<g ref="char:EOLhyphen"/>liſhed.</p>
+                        <closer>
+                           <signed>Io. Brown, Cler. Parl.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>London,</hi> Printed <hi>for Ioſ. Hunſcott,</hi> and
+<hi>Io. Wright.</hi>
+            </p>
+            <pb facs="tcp:55245:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb n="3" facs="tcp:55245:2"/>
+            <opener>
+               <salute>M. PYM,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">B</seg>Efore theſe ſhall come to your hand<g ref="char:punc">▪</g> I make no doubt but M. <hi>Nicholls</hi> of the Houſe of Commons hath made both Houſes a Relation of what hath paſſed here ſince I re<g ref="char:EOLhyphen"/>ceived His Majeſties Letters for the diſcharging me of the Command of the Fleet wherewith I was entruſted, How I called a Coun<g ref="char:EOLhyphen"/>cell of Warre, and acquainted them with His Ma<g ref="char:EOLhyphen"/>jeſties Letters, and likewiſe with the Ordinance of Parliament, ſent from the Houſes for me to conti<g ref="char:EOLhyphen"/>nue my Charge: I confeſſe it was a great ſtreight that I was put in, between two Commands that have ſo much power over me: But when I conſi<g ref="char:EOLhyphen"/>der the great care which I have ever obſerved in the Parliaments of this Kingdom for the good and ſafe<g ref="char:EOLhyphen"/>ty of the King and Kingdom, and every mans par<g ref="char:EOLhyphen"/>ticular
+<pb n="4" facs="tcp:55245:3"/> in them; And that they are that great Coun<g ref="char:EOLhyphen"/>cell by whoſe Authority the Kings of <hi>England</hi> have ever ſpoken to their Subjects; And likewiſe that the Truſt of His Fleet for the defence of His Ma<g ref="char:EOLhyphen"/>j<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſty and the Kingdoms was committed to me by them; And knowing the integrity of my own heart to His Majeſty and Parliament, I reſolved not to de<g ref="char:EOLhyphen"/>ſert that Charge committed to my Truſt, wherein God (bleſſed be his Name for it) hath made me hitherto ſo ſucceſſefull, but to continue it untill I ſhall be revoked by that Authority that hath en<g ref="char:EOLhyphen"/>truſted me with it: Which having declared to my Captains at the Councell of Warre, all of them unanimouſly and cheerfully took the ſame Reſo<g ref="char:EOLhyphen"/>lution, excepting five, which was the Rere-Admirall, Captain <hi>Fogge,</hi> Captain <hi>Barley,</hi> Cap<g ref="char:EOLhyphen"/>tain
+<hi>Slingsby,</hi> and Captain <hi>Wake,</hi> All which five refuſed to come upon my Summons, as having no Authority over them, and got together round that night to make their defence againſt me, one<g ref="char:EOLhyphen"/>ly Captain <hi>Burley</hi> came in and ſubmitted to me. Whereupon in the morning I weighed my An<g ref="char:EOLhyphen"/>chors, and cauſed the reſt of my Ships ſo to do, and came to an Anchor round about them, and beſieged them; And when I had made all things ready, I ſummoned them: Sir <hi>John Mennes,</hi>
+               <pb n="5" facs="tcp:55245:3"/> and Captain <hi>Fogge</hi> came in to me; but Cap<g ref="char:EOLhyphen"/>tain
+<hi>Slingsby</hi> and Captain <hi>Wake</hi> ſtood out: Where<g ref="char:EOLhyphen"/>upon I let fly a Gunne over them, and ſent them word I had turned up the Glaſſe upon them, if in that ſpace they came not in, they muſt look for for me aboord them. I ſent to them by my Boat, and moſt of the Boats in the Fleet; their anſwer was ſo peremptory, that my Maſters and Saylors grew ſo impatient on them, That al<g ref="char:EOLhyphen"/>though they had no Arms in their Boats at all, yet God gave them ſuch Courage and Reſoluti<g ref="char:EOLhyphen"/>on, as in a moment they entered them, took hold on their Shrouds, and ſeized upon theſe Captains, being armed with their Piſtolls and Swords, and ſtruck their Yards and top Maſts, and brought them both in to me; The like Cou<g ref="char:EOLhyphen"/>rage and Reſolution was never ſeen amongſt un<g ref="char:EOLhyphen"/>armed men, ſo as all was ended without effuſion of blood, which I muſt attribute to to the great God of heaven and earth onely, who in the mo<g ref="char:EOLhyphen"/>ment that I was ready to give fire on them, put ſuch courage into ours men to act it, and ſo ſaved much blood.</p>
+            <p>I hope the Parliament will think of ſome courſe for all our Indempnities, and eſpecially for
+<pb n="6" facs="tcp:55245:4"/> the Officers of the Navy, and principall for the Sur<g ref="char:EOLhyphen"/>veyor of the Navy, my Vice-Admirall, a very able and good man, For my ſelf, I doubt not but they that put me in this employment, will preſerve me for ſerving them faithfully.</p>
+            <p>I pray you Sir be a means to Sir <hi>Robert Pye,</hi> and M.
+<hi>Green,</hi> that ſome money may be ſent us; for it hath been often promiſed, but hear not of it. The weather continuing ſtormy ſo long together, that we ſpend our Maſts, and top Maſts, or ſome detri<g ref="char:EOLhyphen"/>ment or other falls upon us daily, ſo that we are in great extremity for want of money.</p>
+            <p>Thus, having nothing elſe to trouble you for the preſent, onely that you will be pleaſed to acquaint your Houſe of Commons with our proceedings here; I bid you farewell, and reſt,</p>
+            <closer>
+               <signed>Your aſſured friend to ſerve you, Warwick.</signed> 
+               <dateline>
+                  <hi>From aboard His Maje<g ref="char:EOLhyphen"/>ſties Ship the</hi> James, <hi>on the Downs, this</hi>
+                  <date>4 <hi>of</hi> July, 1642.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="license">
+            <pb facs="tcp:55245:4"/>
+            <head>
+               <date>
+                  <hi>Die Mercurii,</hi> 6 <hi>Iulii,</hi> 1642.</date>
+            </head>
+            <p>Ordered by the Lords in Parliament, That this Letter be forthwith printed and publiſhed.</p>
+            <closer>
+               <signed>Jo. Brown, Cleric. Parliamentorum.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
